@@ -1,0 +1,29 @@
+.dsList{
+	float:left;
+}
+.dsName{
+	border-bottom: 1 solid;
+}
+.dsName-selected{
+	background-color:#c0c0c0;
+}
+.tablesDiv{
+	float:left;
+	
+}
+.tablesList{
+	float:left;
+}
+.tableName{
+	border-bottom: 1 solid;
+}
+.tableName-selected{
+	background-color:#c0c0c0;
+}
+.dataDiv{
+	
+	width: 600px;
+	height: 600px;
+	overflow: scroll;
+	padding: 10px;
+}
